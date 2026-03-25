@@ -1,4 +1,4 @@
-package mx.edu.itson.practicasharedpreferencelogin_miramontesdaniel.ui.theme
+package mx.edu.itson.practicasharedpreferencelogin_miramontesdaniel
 
 import android.content.Context
 import android.content.SharedPreferences
